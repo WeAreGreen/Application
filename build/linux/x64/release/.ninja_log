@@ -1,0 +1,29 @@
+# ninja log v5
+2	78568	0	/home/imbattibile1720/Documents/WeAreGreen Application/wearegreen/linux/flutter/ephemeral/libflutter_linux_gtk.so	83865376e3a0c533
+2	78568	0	/home/imbattibile1720/Documents/WeAreGreen Application/wearegreen/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	83865376e3a0c533
+2	78568	0	/home/imbattibile1720/Documents/WeAreGreen Application/wearegreen/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	83865376e3a0c533
+2	78568	0	/home/imbattibile1720/Documents/WeAreGreen Application/wearegreen/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	83865376e3a0c533
+2	78568	0	/home/imbattibile1720/Documents/WeAreGreen Application/wearegreen/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	83865376e3a0c533
+2	78568	0	/home/imbattibile1720/Documents/WeAreGreen Application/wearegreen/linux/flutter/ephemeral/flutter_linux/fl_engine.h	83865376e3a0c533
+2	78568	0	/home/imbattibile1720/Documents/WeAreGreen Application/wearegreen/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	83865376e3a0c533
+2	78568	0	/home/imbattibile1720/Documents/WeAreGreen Application/wearegreen/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	83865376e3a0c533
+2	78568	0	/home/imbattibile1720/Documents/WeAreGreen Application/wearegreen/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	83865376e3a0c533
+2	78568	0	/home/imbattibile1720/Documents/WeAreGreen Application/wearegreen/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	83865376e3a0c533
+2	78568	0	/home/imbattibile1720/Documents/WeAreGreen Application/wearegreen/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	83865376e3a0c533
+2	78568	0	/home/imbattibile1720/Documents/WeAreGreen Application/wearegreen/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	83865376e3a0c533
+2	78568	0	/home/imbattibile1720/Documents/WeAreGreen Application/wearegreen/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	83865376e3a0c533
+2	78568	0	/home/imbattibile1720/Documents/WeAreGreen Application/wearegreen/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	83865376e3a0c533
+2	78568	0	/home/imbattibile1720/Documents/WeAreGreen Application/wearegreen/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	83865376e3a0c533
+2	78568	0	/home/imbattibile1720/Documents/WeAreGreen Application/wearegreen/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	83865376e3a0c533
+2	78568	0	/home/imbattibile1720/Documents/WeAreGreen Application/wearegreen/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	83865376e3a0c533
+2	78568	0	/home/imbattibile1720/Documents/WeAreGreen Application/wearegreen/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	83865376e3a0c533
+2	78568	0	/home/imbattibile1720/Documents/WeAreGreen Application/wearegreen/linux/flutter/ephemeral/flutter_linux/fl_value.h	83865376e3a0c533
+2	78568	0	/home/imbattibile1720/Documents/WeAreGreen Application/wearegreen/linux/flutter/ephemeral/flutter_linux/fl_view.h	83865376e3a0c533
+2	78568	0	/home/imbattibile1720/Documents/WeAreGreen Application/wearegreen/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	83865376e3a0c533
+2	78568	0	flutter/_phony_	83865376e3a0c533
+2	78568	0	/home/imbattibile1720/Documents/WeAreGreen Application/wearegreen/build/linux/x64/release/flutter/_phony_	83865376e3a0c533
+78569	87023	1676321524121489785	CMakeFiles/wearegreen.dir/main.cc.o	d7bba25d13d19cfe
+78587	87820	1676321524948165961	CMakeFiles/wearegreen.dir/flutter/generated_plugin_registrant.cc.o	dca71759a75a767a
+78579	87935	1676321525084834200	CMakeFiles/wearegreen.dir/my_application.cc.o	71428760cd18a33b
+87936	89005	1676321526181513482	intermediates_do_not_run/wearegreen	3d77df5532f49224
+89005	89083	0	CMakeFiles/install.util	d918ccedf5e93820

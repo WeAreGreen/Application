@@ -1,0 +1,14 @@
+--2023-02-20 12:12:35--  http://172.16.16.242:8000/
+Connessione a 172.16.16.242:8000... non riuscito: Connessione scaduta.
+Altro tentativo in corso.
+
+--2023-02-20 12:14:46--  (tentativo: 2)  http://172.16.16.242:8000/
+Connessione a 172.16.16.242:8000... non riuscito: Connessione scaduta.
+Altro tentativo in corso.
+
+--2023-02-20 12:16:56--  (tentativo: 3)  http://172.16.16.242:8000/
+Connessione a 172.16.16.242:8000... non riuscito: Connessione scaduta.
+Altro tentativo in corso.
+
+--2023-02-20 12:19:09--  (tentativo: 4)  http://172.16.16.242:8000/
+Connessione a 172.16.16.242:8000... non riuscito: Nessun instradamento per l'host.
