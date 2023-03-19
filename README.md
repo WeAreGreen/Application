@@ -1,4 +1,4 @@
-# wearegreen
+# application
 
 A new Flutter project.
 

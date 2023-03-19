@@ -1,6 +1,6 @@
 {
-    "name": "wearegreen",
-    "short_name": "wearegreen",
+    "name": "application",
+    "short_name": "application",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
